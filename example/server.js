@@ -10,7 +10,6 @@ app.use(
   graphqlHTTP(() => ({ schema })),
 );
 
-app.listen(0, function () {
-  const port = this.address().port;
+app.listen(port, function() {
   console.log(`Started on http://localhost:${port}/`);
 });
