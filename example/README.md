@@ -18,3 +18,6 @@ installing and starting the example.
 3. `npm install`
 4. `npm start`
 5. Open your browser to the address listed in your console. e.g. `Started on http://localhost:49811/`
+
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/dr3dd589/graphql-voyager/tree/master)
