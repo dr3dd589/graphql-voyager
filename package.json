@@ -20,7 +20,7 @@
     "prettier": "prettier --write --list-different .",
     "prettier:check": "prettier --check .",
     "declarations": "tsc --emitDeclarationOnly -p tsconfig.lib.json",
-    "postinstall": "cd example && npm install"
+    "postinstall": "cd src && npm install"
   },
   "license": "MIT",
   "devDependencies": {
